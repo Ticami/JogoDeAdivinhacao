@@ -14,7 +14,8 @@ Este é um jogo de adivinhação onde o jogador tenta acertar um número gerado 
    
 
 ## 🏆 Certificado de Conclusão do Curso
-![image](https://github.com/Ticami/JogodeAdivinhacao/assets/113878195/2306d24a-4375-4611-b79c-70a3b8c849bb)
+![image](https://github.com/Ticami/JogodeAdivinhacao/assets/113878195/02c27dc7-aeaf-40b4-8c2c-98288b9b505d)
+
 
 
 ## 🙏 Agradecimentos
